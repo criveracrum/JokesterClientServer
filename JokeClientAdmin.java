@@ -1,52 +1,6 @@
 /*--------------------------------------------------------
 
-1. Name / Date: Chadwick Rivera-Crum / 4/17/20
-
-2. Java version used, if not the official version for the class: Java 1.8
-
-
-
-3. Precise command-line compilation examples / instructions:
-
-
-> javac JokeClientAdmin.java
-
-
-4. Precise examples / instructions to run this program:
-
-
-For using single server:
-
-> java JokeServer
-> java JokeClient
-> java JokeClientAdmin
-
-For using TWO servers:
-
-> java JokeServer [secondary] (do not use brackets, this is just simply optional)
-> java JokeClient localhost localhost
-> java JokeClientAdmin localhost localhost
-
-All acceptable commands are displayed on the various consoles.
-
-This runs across machines, in which case you have to pass the IP address of
-the server to the clients. For exmaple, if the server is running at
-140.192.1.22 then you would type:
-
-> java JokeClient 140.192.1.22
-> java JokeClientAdmin 140.192.1.22
-
-5. List of files needed for running the program.
-
-
- a. checklist.html
- b. JokeServer.java
- c. JokeClient.java
- d. JokeClientAdmin.java
- e. JokeLog.txt
-
-5. Notes:
-
+Chadwick Rivera-Crum 
 
 
 ----------------------------------------------------------*/
